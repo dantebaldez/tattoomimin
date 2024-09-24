@@ -1,0 +1,16 @@
+.footer-container {
+  background-color: #212121;
+  color: #F5F5F5;
+  padding: 1rem;
+  text-align: center; /* Centralizando o texto */
+}
+
+a {
+  color: #F5F5F5;
+  text-decoration: none;
+  transition: color 0.3s;
+}
+
+a:hover {
+  color: #B71C1C;
+}

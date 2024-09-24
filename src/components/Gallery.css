@@ -1,0 +1,25 @@
+.gallery {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  margin-top: 2rem;
+}
+
+.gallery-row {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 50px;
+}
+
+.gallery-img {
+  width: 300px;
+  height: 300px;
+  margin: 0 10px;
+  margin-bottom: 30px;
+}
+
+.gallery-title {
+  color: #B71C1C;
+  font-size: 2rem;
+  margin-bottom: 1rem;
+}
