@@ -23,3 +23,17 @@
   font-size: 2rem;
   margin-bottom: 1rem;
 }
+
+/* Adicionando responsividade */
+@media (max-width: 768px) {
+  .gallery-row {
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .gallery-img {
+    width: 90%;
+    height: auto;
+    margin-bottom: 20px;
+  }
+}
