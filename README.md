@@ -20,7 +20,7 @@ Armin é o meu cachorro, mas eu o chamo de Mimin. Este nome carinhoso representa
 ## Como Executar o Projeto
 1. Clone o repositório:
    ```bash
-   git clone <URL do seu repositório>
+   git clone [<URL do seu repositório>](https://github.com/dantebaldez/tattoomimin.git)
 
 2. Navegue até a pasta do projeto
    ```bash
